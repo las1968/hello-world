@@ -1,2 +1,5 @@
 # hello-world
 tutorial for working with Git
+FIRST STEPS IN THIS AREA.
+MY LAST STEPS OUTSIDE THAT AREA.
+I FOLLOW AFTER MY FIRST FRIEND.
